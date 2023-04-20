@@ -52,10 +52,6 @@
       "disabled": false
     },
     {
-      "entityType": "helpArticle",
-      "disabled": true
-    },
-    {
       "entityType": "product",
       "disabled": true
     },
